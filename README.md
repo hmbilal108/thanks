@@ -1,4 +1,4 @@
-# This is created by me, taking inspiration from [Aareez Asif](https://youtu.be/tJxmN_nN__Y?si=EDfXoumrRuZtEWBL).
+# This is created by me, taking inspiration from [Aareez Asif](https://youtu.be/tJxmN_nN__Y?si=EDfXoumrRuZtEWBL) and thanks to Aareef Asif.
 
 docker build -t thanksimage .
 
