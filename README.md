@@ -1,9 +1,10 @@
 # This is created by me, taking inspiration from [Aareez Asif](https://youtu.be/tJxmN_nN__Y?si=EDfXoumrRuZtEWBL) and thanks to Aareef Asif.
 
 docker build -t thanksimage .
-
-
 docker run --name thankscontainer -itd -p 27016:80 thanksimage
+
+
+docker run --name thankscontainer -itd -p 27016:80 hmbilal108944/thanksimage
 
 
 ### Note two things
