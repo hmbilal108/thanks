@@ -3,9 +3,9 @@
 docker build -t thanksimage . 
 and docker run --name thankscontainer -itd -p 27016:80 thanksimage
 
-
+```
 docker run --name thankscontainer -itd -p 27016:80 hmbilal108944/thanksimage
-
+```
 
 ### Note two things
 1- open port 27016
