@@ -7,6 +7,6 @@ docker run --name thankscontainer -itd -p 27016:80 thanksimage
 
 
 ## Note 
-open port 27016
+1- open port 27016
 
-http://publicIP:27016/thanks.html
+2- http://publicIP:27016/thanks.html
